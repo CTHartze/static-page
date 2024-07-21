@@ -1,2 +1,1 @@
-# taskmaster-app
-A to-do list application with additional features.
+static page tasklist attempt
